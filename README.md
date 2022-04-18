@@ -13,3 +13,8 @@ and after all the data has been collected, the program will trying to perform a 
 with the use of lib such as request , to send simple http request to the bundesliga website
 and also beautifulsoup4, to pull out the data from the website.
 
+Steps are as follows:-
+
+1. Clone the repo OR wget https://raw.githubusercontent.com/Angad0202/bundesliga-prediction/main/script.py
+2. pip3 install pandas numpy beautifulsoup4 requests sklearn
+3. python3 script.py
